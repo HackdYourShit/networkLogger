@@ -1,0 +1,22 @@
+{
+  "name": "networklogger",
+  "version": "1.0.1",
+  "description": "Network Logger Tool",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greenSyntax/networkLogger.git"
+  },
+  "author": "Abhishek Kumar Ravi",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/greenSyntax/networkLogger/issues"
+  },
+  "homepage": "https://github.com/greenSyntax/networkLogger#readme",
+  "dependencies": {
+    "speedtest-net": "^1.3.1"
+  }
+}
