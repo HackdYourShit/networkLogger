@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/greenSyntax/networkLogger#readme",
   "dependencies": {
+    "mongodb": "^2.2.33",
     "speedtest-net": "^1.3.1"
   }
 }
