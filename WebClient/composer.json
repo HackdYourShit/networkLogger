@@ -1,0 +1,14 @@
+{
+    "name": "NetworkLogger",
+    "description": "Logger for Network Log",
+    "authors": [
+        {
+            "name": "Abhishek Kumar Ravi",
+            "email": "ab.abhishek.ravi@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "1.12.0",
+        "mongodb/mongodb": "*"
+    }
+}
