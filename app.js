@@ -66,7 +66,6 @@ function logToMongoDb() {
     //Insert
     db.collection("Logs").insertOne({
       timeStamp: currentDateTime,
-      state: 'UP',
       internetProvider: internetProvider,
       internetIP: internetProviderIP,
       downloadSpeed: downloadSpeed,
